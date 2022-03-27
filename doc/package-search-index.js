@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pt.ccponte.ficudial.exercise"},{"l":"pt.ccponte.ficudial.exercise.controllers"},{"l":"pt.ccponte.ficudial.exercise.entitites"},{"l":"pt.ccponte.ficudial.exercise.repositories"},{"l":"pt.ccponte.ficudial.exercise.services"}];updateSearchResults();
